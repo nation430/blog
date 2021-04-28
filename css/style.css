@@ -47,7 +47,7 @@ a:hover {
   text-decoration: underline;
 }
 
-.hd a:hover {
+.h-d a:hover {
   color: #6c757d;
   text-decoration: none;
   border-bottom: 10px solid #20c997;
@@ -319,4 +319,8 @@ footer li a {
 .footer_link li a:hover,
 .widget_links li a:hover {
   color: #041836;
+}
+
+.f-socials > * + *{
+  padding-left:1rem;
 }
